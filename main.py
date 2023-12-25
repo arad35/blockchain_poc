@@ -190,7 +190,7 @@ class Blockchain:
             block.verified_transactions.dump()
             print("-----------")
 
-
+#testing
 def main():
     blockchain = Blockchain()
     transactions = Transactions()
